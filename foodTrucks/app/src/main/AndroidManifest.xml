@@ -4,6 +4,7 @@
     package="com.redfinterviews.foodtrucks">
 
     <application
+        android:name="com.redfinterviews.foodtrucks.ThisApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
